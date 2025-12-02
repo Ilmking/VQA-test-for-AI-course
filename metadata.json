@@ -1,0 +1,5 @@
+{
+  "name": "Visual Question Answering (VQA)",
+  "description": "Rasmlarni tahlil qilish va ular asosida savollarga aniq javob berish platformasi.",
+  "requestFramePermissions": []
+}
